@@ -23,5 +23,6 @@ CLASS zcl_7444_hello_world IMPLEMENTATION.
 *    RECEIVING
 *      output =
   ).
+
   ENDMETHOD.
 ENDCLASS.
